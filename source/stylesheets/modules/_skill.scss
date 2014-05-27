@@ -1,6 +1,7 @@
 .skills {
   float: right;
   margin-right: 46px;
+  margin-bottom: -10px; //Hack
 
   .skills-title {
     margin-top: 62px;
@@ -16,7 +17,7 @@
 
   .skill {
     overflow: hidden;
-    height: 15px;
+    height: 16px;
     margin-bottom: 8px; }
 }
 

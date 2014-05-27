@@ -8,8 +8,8 @@ define(['backbone'], function(Backbone) {
       'profile_photo': 'me.png',
       'bio': "Hi, I am Ezequiel a full-stack web developer based in Tucumán, Argentina. I have experience on \
               different technologies and agile methodologies. I use the best combination of them to solve \
-              different kinds of problems. \
-              I'm always looking for new professional challenges to increase my skills and knowledge. \
+              different kinds of problems. <br>\
+              I'm always looking for new professional challenges to increase my skills and knowledge. <br>\
               I'd love to generate value for your business"
     },
 

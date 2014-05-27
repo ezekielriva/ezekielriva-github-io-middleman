@@ -78,11 +78,31 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'ezekielriva';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .icon-book:before {
   content: "\f02d";
 }
 .icon-leaf:before {
   content: "\f06c";
+}
+.icon-envelope:before {
+  content: "\f0e0";
+}
+.icon-linkedin:before {
+  content: "\f0e1";
 }
 .icon-coffee:before {
   content: "\f0f4";

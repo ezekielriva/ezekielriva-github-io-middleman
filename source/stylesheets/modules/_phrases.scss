@@ -1,0 +1,20 @@
+.phrases {
+  display: table;
+  width: 640px;
+  height: 90px;
+  margin: 10px auto;
+  box-shadow: 0px 6px 12px -9px black;
+  list-style: none;
+  text-align: center;
+  font-size: 1.14em;
+  line-height: 40px;
+  font-style: italic;
+  color: $phrases;
+
+  .phrase {
+    display: none;
+    &.active {
+      display: table-cell;
+      vertical-align: middle; }
+  }
+}

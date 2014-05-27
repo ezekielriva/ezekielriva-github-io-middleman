@@ -1,0 +1,9 @@
+[
+  { "id": "1", "label": "HTML", "level": "100" },
+  { "id": "2", "label": "CSS", "level": "100" },
+  { "id": "3", "label": "PHP", "level": "85" },
+  { "id": "4", "label": "RoR", "level": "85" },
+  { "id": "5", "label": "Node", "level": "20"},
+  { "id": "6", "label": "BackboneJS", "level": "50"},
+  { "id": "7", "label": "AngularJS", "level": "30"}
+]

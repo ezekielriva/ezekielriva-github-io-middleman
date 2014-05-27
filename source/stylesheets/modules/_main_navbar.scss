@@ -1,0 +1,22 @@
+.main_navbar {
+  float: right;
+
+  .items { list-style: none; }
+
+  .item { float: left; }
+
+  .item-link {
+    display: block;
+    padding: 52px 12px 11px 12px;
+
+    &:hover {
+      background: $red;
+      color: white; }
+  }
+
+  .active {
+    background: $red;
+    color: white; }
+}
+
+#main_nav_bar { overflow: hidden; }

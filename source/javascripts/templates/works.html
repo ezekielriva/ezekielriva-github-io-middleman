@@ -1,0 +1,13 @@
+<% _.each( works, function(work) { %>
+  <figure class="square_work">
+    <a href="<%= work.get('url') %>" class="work_link" target="_blank">
+      <img src="<%= work.get('image') %>" alt="<%= work.get('title') %>" class="work_image">
+      <figcaption class="work_description">
+        <h1 class="work_title"><%= work.get('title') %></h1>
+        <p class="work_technologies">
+          <%= work.get('technologies') %>
+        </p>
+      </figcaption>
+    </a>
+  </figure>
+<% }); %>

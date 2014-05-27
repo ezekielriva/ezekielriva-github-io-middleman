@@ -1,0 +1,7 @@
+<ul class="phrases">
+  <% _.each(phrases, function(phrase, index){ %>
+    <li class="phrase <%= (index === 0)? 'active' : '' %>">
+      <%= phrase.get('phrase') %> ~ <strong><%= phrase.get('author') %></strong>
+    </li>
+  <% }); %>
+</ul>

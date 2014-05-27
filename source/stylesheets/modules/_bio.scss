@@ -1,0 +1,46 @@
+.bio {
+  float: left;
+  position: relative;
+  margin-left: 54px;
+  margin-right: 78px;
+
+  .profile-picture {
+    position: absolute;
+    top: -50px;
+    max-height: 125px;
+    max-width: 125px;
+    border: 7px solid white; }
+
+  .personal-data {
+    margin-left: (125px + 7px + 28px); } // Profile Size + Borders + Real Margin
+
+  .summary {
+    width: 586px;
+    margin-top: 29px;
+    font-size: 12px; }
+}
+
+  .personal-data {
+    .name {
+      margin: 23px auto 9px auto;
+      font-size: 22px;
+      font-style: italic;
+      color: white; }
+
+    .location {
+      color: white;
+      font-size: 11px; }
+
+    .icon-location {
+      font-size: 15px;
+      line-height: 11px;
+      vertical-align: sub; }
+
+    .icon-twitter {
+      position: absolute;
+      top: 31px;
+      right: 20px;
+      color: white;
+      font-size: 36px;
+      line-height: 36px; }
+  }

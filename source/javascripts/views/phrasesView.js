@@ -12,7 +12,7 @@ define(['jquery', 'backbone',
       var that = this;
       this.timer = setInterval( function () {
         that.changePhrase();
-      }, 3000 );
+      }, 8000 );
     },
 
     changePhrase: function() {

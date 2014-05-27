@@ -6,10 +6,10 @@ define(['backbone'], function(Backbone) {
       'last_name': 'Rivadeneira Lichardi',
       'location': 'San Miguel de Tucumán, Argentina',
       'profile_photo': 'me.png',
-      'bio': "Hi, I am Ezequiel a full-stack web developer based in Tucumán, Argentina. I've experience on \
-              different technologies and agile methodologies. I use the best combination of them for solve \
-              different problems. \
-              I go on searching good and hard professional challenges for enhancement my knowledge. \
+      'bio': "Hi, I am Ezequiel a full-stack web developer based in Tucumán, Argentina. I have experience on \
+              different technologies and agile methodologies. I use the best combination of them to solve \
+              different kinds of problems. \
+              I'm always looking for new professional challenges to increase my skills and knowledge. \
               I'd love to generate value for your business"
     },
 

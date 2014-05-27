@@ -1,4 +1,12 @@
 [
   { "id": "1", "phrase": "Programmer - an organism that turns coffee into software.", "author": "Author Unknown" },
   { "id": "2", "phrase": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", "author": "Martin Fowler" }
+  { "id": "3", "phrase": "In a time of universal deceit - telling the truth is a revolutionary act.", "author": "George Orwell" }
+  { "id": "4", "phrase": "Failure is the condiment that gives success its flavor.", "author": "Truman Capote" }
+  { "id": "5", "phrase": "No price is too high to pay for the privilege of owning yourself.", "author": "Friedrich Wilhelm Nietzsche" }
+  { "id": "6", "phrase": "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.", "author": "Carl Jung" }
+  { "id": "7", "phrase": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.", "author": "Bruce Lee" }
+  { "id": "8", "phrase": "Jump, and you will find out how to unfold your wings as you fall.", "author": "Ray Bradbury" }
+  { "id": "9", "phrase": "Don't judge each day by the harvest you reap but by the seeds that you plant.", "author": "Robert Louis Stevenson" }
+  { "id": "10", "phrase": "An intellectual says a simple thing in a hard way. An artist says a hard thing in a simple way.", "author": "Charles Bukowski" }
 ]

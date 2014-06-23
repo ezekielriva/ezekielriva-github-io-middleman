@@ -1,4 +1,8 @@
-<% _.each( works, function(work) { %>
+<h1 class="portfolio-title">Portfolio</h1>
+<% _.each( works, function(work, index) { %>
+  <% if( 0 === index || 0 === index % 4 ) { %>
+    <div class="square-row">
+  <% } %>
   <figure class="square_work">
     <a href="<%= work.get('url') %>" class="work_link" target="_blank">
       <img src="<%= work.get('image') %>" alt="<%= work.get('title') %>" class="work_image">

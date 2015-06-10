@@ -1,0 +1,28 @@
+{
+  "name": "ezekielriva.github.io",
+  "version": "0.0.0",
+  "description": "personal website",
+  "main": " ",
+  "dependencies": {
+    "gulp": "^3.8.10"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-sass": "^2.0.1",
+    "gulp-uglify": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezekielriva/ezekielriva-github-io"
+  },
+  "author": "Ezekiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezekielriva/ezekielriva-github-io/issues"
+  },
+  "homepage": "https://github.com/ezekielriva/ezekielriva-github-io"
+}
